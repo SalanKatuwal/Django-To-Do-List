@@ -3,7 +3,22 @@
 
 A simple Django-based to-do list application that allows users to register, log in, and manage their personal tasks. Features include task creation, completion, deletion, and filtering based on status.
 
+## Screenshots
 
+Login Page:
+![photo_1](/photos/login.png)
+
+Register Page:
+![photo_2](/photos/register.png)
+
+Home Page:
+![photo_3](/photos/home.png)
+
+All active Task:
+![photo_4](/photos/activ.png)
+
+All completed task:
+![photo_5](/photos/completed.png)
 
 
 ## Features
